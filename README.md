@@ -1,1 +1,1 @@
-# avito_bootcamp
+Здесь лежит код, полученный в ходе решения тестового задания от Avito Data Scienсe Bootcamp по направлению NLP & LLM.
